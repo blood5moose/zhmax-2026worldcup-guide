@@ -1,2 +1,14 @@
 # zhmax-2026worldcup-guide
-HTML page archive and documentation
+
+页面托管与归档说明
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
